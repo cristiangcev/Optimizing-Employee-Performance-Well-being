@@ -7,7 +7,7 @@ Welcome to my Optimizing Employee Performance & Well-being project! This reposit
 
 ## Project Goal
 
-The primary goal of this project is to leverage a real-world HR dataset to uncover the underlying dynamics of employee satisfaction, engagement, absenteeism, and performance. Through robust data analysis and modeling, we aim to:
+The primary goal of this project is to leverage a real-world HR dataset to uncover the underlying dynamics of employee satisfaction, engagement, absenteeism, and performance. Through robust data analysis and modeling, I aim to:
 
 - **Identify Key Drivers**: Pinpoint which specific factors significantly influence employee well-being and performance outcomes.
 
@@ -188,7 +188,7 @@ This project is designed to deliver tangible value by providing:
 
 ## Future Enhancements
 
-We envision several potential enhancements to expand this project:
+I envision several potential enhancements to expand this project:
 
    - Integration with External Data: Incorporate external economic indicators or industry benchmarks.
    - Interactive Dashboard Development: Create a dynamic dashboard using tools like Tableau, Power BI, or Dash.
